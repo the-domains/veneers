@@ -1,0 +1,28 @@
+name: veneers
+favicon: null
+layout_spectrum: 0.5049869308713824
+typography_spectrum: 0.8065827963873744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7689251657575369
+  lightness: 0.8657071406487375
+  saturation: 0.6408073890488595
+  rhythmicContrast: 0.733197207795456
+purpose: []
